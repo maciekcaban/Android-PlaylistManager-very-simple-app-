@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlaylistManager</string>
+    <string name="flex_title_text_view">Title:</string>
+    <string name="flex_uri_text_view">URI:</string>
+    <string name="flex_save_button">Save</string>
+    <string name="flex_play_button">Play</string>
+    <string name="empty_butt_text">Empty</string>
+    <string name="text_on_top">Playlist Manager</string>
+</resources>
